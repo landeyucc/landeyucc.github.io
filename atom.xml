@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.vl-a.com</id>
+    <title>Lande Blog</title>
+    <updated>2025-02-10T14:36:49.962Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.vl-a.com"/>
+    <link rel="self" href="https://blog.vl-a.com/atom.xml"/>
+    <subtitle>Touch the blue sky.</subtitle>
+    <logo>https://blog.vl-a.com/images/avatar.png</logo>
+    <icon>https://blog.vl-a.com/favicon.ico</icon>
+    <rights>All rights reserved 2025, Lande Blog</rights>
+</feed>
